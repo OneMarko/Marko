@@ -2,7 +2,7 @@
 
 I'm a **Data Science & Applied Statistics, Computer Science Student** who loves turning messy data into something that actually means something. I'm equally comfortable writing a Python model and PostgreSQL SELECT, JOIN AND FROM statements.
 
-When I'm not studying, I'm usually tinkering with side projects, reading about the competig AI models, watching random exciting sports games or convincing myself I'll read that paper tomorrow.
+When I'm not studying, I'm usually tinkering with side projects, reading about the competing AI models, watching random exciting sports games or convincing myself I'll read that paper tomorrow.
 
 ---
 
